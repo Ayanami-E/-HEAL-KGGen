@@ -1,0 +1,1122 @@
+[
+  {
+    "question": "In the context of assessing genetic modifiers of disease penetrance, consider the variant of ATP7B gene resulting in Wilson's disease. This gene interacts with a specific pathway leading to copper accumulation, which then results in organ damage if not treated. What other gene is recognized to interact with ATP7B and influence the condition's penetrance and/or phenotypic presentation, and which molecular mechanism is it involved in?",
+    "options": {
+      "A": "MTTP gene, involved in lipid absorption and lipoprotein assembly",
+      "B": "COMMD1 gene, responsible for copper trafficking and homeostasis",
+      "C": "APOE gene, involved in lipid transport and metabolism.",
+      "D": "ATP7A gene, involved in copper transport and Menkes disease manifestation"
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "genetic modifiers of disease penetrance",
+    "original_answer": "B. APOE gene, involved in lipid transport and metabolism."
+  },
+  {
+    "question": "In the context of assessing genetic modifiers of disease penetrance, consider the variant of ATP7B gene resulting in Wilson's disease. This gene interacts with a specific pathway leading to copper accumulation, which then results in organ damage if not treated. What other gene is recognized to interact with ATP7B and influence the condition's penetrance and/or phenotypic presentation, and which molecular mechanism is it involved in?",
+    "options": {
+      "A": "MTTP gene, involved in lipid absorption and lipoprotein assembly",
+      "B": "COMMD1 gene, responsible for copper trafficking and homeostasis",
+      "C": "ATP7A gene, involved in copper transport and Menkes disease manifestation",
+      "D": "APOE gene, involved in lipid transport and metabolism."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "genetic modifiers of disease penetrance",
+    "original_answer": "B. APOE gene, involved in lipid transport and metabolism."
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs.",
+      "B": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles.",
+      "C": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life.",
+      "D": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD.",
+      "B": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression.",
+      "C": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "D": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "Prader-Willi Syndrome and Angelman Syndrome are two distinct neurogenetic disorders associated with imprinting defects and uniparental disomy on chromosome 15q11-q13. Deletion or loss of function of certain genes in this region leads to the development of these syndromes based on the parental origin of the abnormal chromosome. Considering the imprinted gene UBE3A, SNRPN, and the non-imprinted gene GABRB3 in this locus, which of the following statements is CORRECT?",
+    "options": {
+      "A": "The disruption of Maternal UBE3A gene results in Prader-Willi Syndrome. Lack of expression from the paternal SNRPN gene is associated with the onset of Angelman Syndrome. Whereas, GABRB3 gene, even being non-imprinted, leads to both Angelman and Prader-Willi Syndromes when it is inherited from the paternal allele.",
+      "B": "The deficiency of the maternal allele of SNRPN gene causes Prader-Willi Syndrome. Angelman Syndrome occurs due to loss or alteration of the paternal UBE3A gene, as this gene is predominantly expressed from the paternal allele. The non-imprinted gene GABRB3 is expressed from the paternal allele only in both Prader-Willi and Angelman Syndromes.",
+      "C": "The absence of Paternal UBE3A gene causes Angelman Syndrome. In neurons, the UBE3A gene exhibits higher expression from the paternal allele, therefore, loss of paternal UBE3A results in Angelman Syndrome. SNRPN is a maternally expressed gene, and defects (deletion or uniparental disomy) on the maternal chromosome lead to Prader-Willi Syndrome. Both syndromes exhibit expression of GABRB3 from the maternal allele only.",
+      "D": "The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "imprinting disorders and uniparental disomy",
+    "original_answer": "B) The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes."
+  },
+  {
+    "question": "Huntington’s disease, a trinucleotide repeat disorder, is primarily associated with an expansion in the Huntingtin (HTT) gene. However, variations in other genes are also known to influence the age of onset and progression of the disease. Which of the following genetic modifiers has been identified to significantly impact the clinical manifestations of Huntington’s disease by influencing the transcriptional dysregulation pathway?",
+    "options": {
+      "A": "MSH3 gene variations leading to DNA mismatch repair machinery alterations",
+      "B": "TP53 gene mutations leading to alterations in the p53 apoptosis pathway",
+      "C": "Variations in the SLC2A3 gene leading to alterations in glucose transporter type 3 (GLUT3) expression",
+      "D": "MECP2 gene mutations inducing methyl CpG binding protein 2 dysregulation"
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "multigenic disease mechanisms",
+    "original_answer": "A) MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+  },
+  {
+    "question": "Thiopurine S-methyltransferase (TPMT) is an important enzyme in the metabolism of thiopurines used in the treatment of inflammatory bowel disease. Variations in the TPMT gene can lead to adverse drug reactions, with some variants associated with significantly reduced enzyme activity. Assume a patient diagnosed with Crohn's disease presents with severe myelotoxicity after starting a thiopurine-based regimen. Based on these observations and the most commonly identified TPMT gene variants, which genetic variant is most likely present in this patient?",
+    "options": {
+      "A": "TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines.",
+      "B": "TPMT*5B (T460A + A719G). This unique variant reflects compound heterozygosity leading to moderate TPMT enzymatic activity reduction and increased risk of thiopurine-induced pancreatitis due to uncontrolled purine nucleotide metabolism in pancreatic cells.",
+      "C": "TPMT*1/2C (C719G + Y240D). This variant, prominent in the Asian population, is associated with decreased TPMT enzyme activity leading to thiopurine-related hepatotoxicity due to an exacerbated generation of unstable thioguanine nucleotides.",
+      "D": "TPMT*6 (A80P + Y240C). This rare variant is associated with the slightly reduced activity of the TPMT enzyme, leading to milder cases of thiopurine-induced hematological adverse reactions, due to the slight accumulation of cytotoxic Thioguanine nucleotides."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "pharmacogenetic variants affecting drug metabolism",
+    "original_answer": "C. TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs.",
+      "B": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles.",
+      "C": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs.",
+      "D": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Thiopurine S-methyltransferase (TPMT) is an important enzyme in the metabolism of thiopurines used in the treatment of inflammatory bowel disease. Variations in the TPMT gene can lead to adverse drug reactions, with some variants associated with significantly reduced enzyme activity. Assume a patient diagnosed with Crohn's disease presents with severe myelotoxicity after starting a thiopurine-based regimen. Based on these observations and the most commonly identified TPMT gene variants, which genetic variant is most likely present in this patient?",
+    "options": {
+      "A": "TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines.",
+      "B": "TPMT*1/2C (C719G + Y240D). This variant, prominent in the Asian population, is associated with decreased TPMT enzyme activity leading to thiopurine-related hepatotoxicity due to an exacerbated generation of unstable thioguanine nucleotides.",
+      "C": "TPMT*6 (A80P + Y240C). This rare variant is associated with the slightly reduced activity of the TPMT enzyme, leading to milder cases of thiopurine-induced hematological adverse reactions, due to the slight accumulation of cytotoxic Thioguanine nucleotides.",
+      "D": "TPMT*5B (T460A + A719G). This unique variant reflects compound heterozygosity leading to moderate TPMT enzymatic activity reduction and increased risk of thiopurine-induced pancreatitis due to uncontrolled purine nucleotide metabolism in pancreatic cells."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "pharmacogenetic variants affecting drug metabolism",
+    "original_answer": "C. TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+  },
+  {
+    "question": "Huntington’s disease, a trinucleotide repeat disorder, is primarily associated with an expansion in the Huntingtin (HTT) gene. However, variations in other genes are also known to influence the age of onset and progression of the disease. Which of the following genetic modifiers has been identified to significantly impact the clinical manifestations of Huntington’s disease by influencing the transcriptional dysregulation pathway?",
+    "options": {
+      "A": "TP53 gene mutations leading to alterations in the p53 apoptosis pathway",
+      "B": "MSH3 gene variations leading to DNA mismatch repair machinery alterations",
+      "C": "Variations in the SLC2A3 gene leading to alterations in glucose transporter type 3 (GLUT3) expression",
+      "D": "MECP2 gene mutations inducing methyl CpG binding protein 2 dysregulation"
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "multigenic disease mechanisms",
+    "original_answer": "A) MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+  },
+  {
+    "question": "In the context of chromosomal structural abnormalities, which of the following statements about reciprocal translocations, related genes, and associated diseases is correct?",
+    "options": {
+      "A": "t(9;22)(q34;q11) is associated with Chronic Myelogenous Leukemia and involves the fusion of the BCR gene on chromosome 9 and the ABL1 gene on chromosome 22, creating a BCR-ABL1 fusion protein that has an increased tyrosine kinase activity. This activity alters the regulation of the cell cycle processes, enhancing cell division and preventing apoptosis, which contributes to the pathogenesis of Chronic Myelogenous Leukemia. Imatinib, a tyrosine-kinase inhibitor, can specifically target and suppress this aberrant fusion protein.",
+      "B": "t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease.",
+      "C": "t(11;14)(q13;q32) is linked to Mantle Cell Lymphoma and involves the deregulation of the CCND1 gene on chromosome 11 and the IGH gene on chromosome 14. This translocation results in the overproduction of Cyclin D1, a protein essential for cell cycle progression. Overexpression of Cyclin D1 spurs unregulated cell proliferation and the development of Mantle Cell Lymphoma. Bortezomib, a proteasome inhibitor, can be employed to degrade the surplus Cyclin D1 and control the progression of the disease.",
+      "D": "t(14;18)(q32;q21) is associated with Follicular Lymphoma and results from the translocation of the BCL2 gene on chromosome 18 to the IGH gene locus on chromosome 14. This rearrangement leads to the overexpression of the BCL2 protein that inhibits apoptosis, leading to accumulation of B-lymphocytes and Follicular Lymphoma. Rituximab, an anti-CD20 monoclonal antibody, is used to target the B-cells and manage the disease."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "chromosomal structural abnormalities",
+    "original_answer": "B. t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD.",
+      "B": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression.",
+      "C": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "D": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles.",
+      "B": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life.",
+      "C": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs.",
+      "D": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Focusing on the molecular pathophysiology of Diamond-Blackfan anemia (DBA), an inherited bone marrow failure disorder associated primarily with mutations in ribosomal protein genes, it is confirmed that the overexpression of p53 plays a pivotal role in the disease phenotype. Among RPS19, RPS24, RPL5 and RPL11, three of these possess well-defined mechanisms of mediating p53 activation, which involves inhibition of MDM2, a key negative regulator of p53. Which of these ribosomal proteins does not participate in modulating the p53 pathway through MDM2 interaction?",
+    "options": {
+      "A": "RPS24 does not participate in modulating the p53 pathway through MDM2 interaction. The other three ribosomal proteins (RPS19, RPL5, and RPL11) are known to negatively regulate MDM2, thereby stabilizing and activating p53 in Diamond-Blackfan anemia.",
+      "B": "RPL5 does not partake in the modulation of the p53-MDM2 axis, which is a central feature to the molecular pathophysiology of Diamond-Blackfan anemia.",
+      "C": "RPS19 lacks the necessary interaction with MDM2, which is essential to the p53 regulatory pathway and the resultant bone marrow failure in Diamond-Blackfan anemia.",
+      "D": "RPL11 does not play a role in the balance of the MDM2-p53 pathway, despite its profuse presence in the ribosomal protein spectrum of Diamond-Blackfan anemia."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "gene expression regulation in rare diseases",
+    "original_answer": "B) RPS24 does not participate in modulating the p53 pathway through MDM2 interaction. The other three ribosomal proteins (RPS19, RPL5, and RPL11) are known to negatively regulate MDM2, thereby stabilizing and activating p53 in Diamond-Blackfan anemia."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD.",
+      "B": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression.",
+      "C": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "D": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "Thiopurine S-methyltransferase (TPMT) is an important enzyme in the metabolism of thiopurines used in the treatment of inflammatory bowel disease. Variations in the TPMT gene can lead to adverse drug reactions, with some variants associated with significantly reduced enzyme activity. Assume a patient diagnosed with Crohn's disease presents with severe myelotoxicity after starting a thiopurine-based regimen. Based on these observations and the most commonly identified TPMT gene variants, which genetic variant is most likely present in this patient?",
+    "options": {
+      "A": "TPMT*5B (T460A + A719G). This unique variant reflects compound heterozygosity leading to moderate TPMT enzymatic activity reduction and increased risk of thiopurine-induced pancreatitis due to uncontrolled purine nucleotide metabolism in pancreatic cells.",
+      "B": "TPMT*1/2C (C719G + Y240D). This variant, prominent in the Asian population, is associated with decreased TPMT enzyme activity leading to thiopurine-related hepatotoxicity due to an exacerbated generation of unstable thioguanine nucleotides.",
+      "C": "TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines.",
+      "D": "TPMT*6 (A80P + Y240C). This rare variant is associated with the slightly reduced activity of the TPMT enzyme, leading to milder cases of thiopurine-induced hematological adverse reactions, due to the slight accumulation of cytotoxic Thioguanine nucleotides."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "pharmacogenetic variants affecting drug metabolism",
+    "original_answer": "C. TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "B": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression.",
+      "C": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development.",
+      "D": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "Translocation Renal Cell carcinoma is characterized by translocations involving the Transcription Factor E3 (TFE3) gene, leading to the overexpression of TFE3 fusion proteins. In a study designed to examine the epigenetic alteration of gene expression caused by TFE3 fusion proteins, which of the following pathways would be most likely impacted?",
+    "options": {
+      "A": "Increased phosphorylation of the p53 tumor suppressor gene, leading to its destabilization and degradation. This process could facilitate unrestricted cell proliferation in renal cell carcinomas, given the role of p53 in cell cycle regulation and apoptosis.",
+      "B": "Decreased ubiquitination of beta-catenin at Wnt target genes, leading to an accumulation of beta-catenin and increased cell growth and proliferation. Beta-catenin is a critical component of the Wnt signaling pathway, which is involved in cell proliferation, survival, and differentiation. TFE3 fusion proteins could theoretically influence its ubiquitination, altering its degradation and leading to increased cell growth.",
+      "C": "Enhanced methylation of the promoter regions of the HIF1A and EGFR genes. The gene HIF1A codes for Hypoxia Inducible Factor 1 Alpha, and Epidermal Growth Factor Receptor (EGFR) is a protein involved in cell growth and differentiation. The TFE3 fusion proteins could promote methylation, preventing these genes from being expressed and thus inhibiting tumorigenesis.",
+      "D": "Increased acetylation of histones at the promoters of the VEGF and PDGF genes. The TFE3 gene is a transcription factor, and changes in its expression due to the creation of TFE3 fusion proteins would likely impact transcriptional regulation, such as histone modification. Vascular Endothelial Growth Factor (VEGF) and Platelet Derived Growth Factor (PDGF) are two genes commonly overexpressed in renal cell carcinomas, and their overexpression is often due to histone acetylation at their respective promoters."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "epigenetic regulation of disease genes",
+    "original_answer": "B) Increased acetylation of histones at the promoters of the VEGF and PDGF genes. The TFE3 gene is a transcription factor, and changes in its expression due to the creation of TFE3 fusion proteins would likely impact transcriptional regulation, such as histone modification. Vascular Endothelial Growth Factor (VEGF) and Platelet Derived Growth Factor (PDGF) are two genes commonly overexpressed in renal cell carcinomas, and their overexpression is often due to histone acetylation at their respective promoters."
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs.",
+      "B": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles.",
+      "C": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life.",
+      "D": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Thiopurine S-methyltransferase (TPMT) is an important enzyme in the metabolism of thiopurines used in the treatment of inflammatory bowel disease. Variations in the TPMT gene can lead to adverse drug reactions, with some variants associated with significantly reduced enzyme activity. Assume a patient diagnosed with Crohn's disease presents with severe myelotoxicity after starting a thiopurine-based regimen. Based on these observations and the most commonly identified TPMT gene variants, which genetic variant is most likely present in this patient?",
+    "options": {
+      "A": "TPMT*6 (A80P + Y240C). This rare variant is associated with the slightly reduced activity of the TPMT enzyme, leading to milder cases of thiopurine-induced hematological adverse reactions, due to the slight accumulation of cytotoxic Thioguanine nucleotides.",
+      "B": "TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines.",
+      "C": "TPMT*1/2C (C719G + Y240D). This variant, prominent in the Asian population, is associated with decreased TPMT enzyme activity leading to thiopurine-related hepatotoxicity due to an exacerbated generation of unstable thioguanine nucleotides.",
+      "D": "TPMT*5B (T460A + A719G). This unique variant reflects compound heterozygosity leading to moderate TPMT enzymatic activity reduction and increased risk of thiopurine-induced pancreatitis due to uncontrolled purine nucleotide metabolism in pancreatic cells."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "pharmacogenetic variants affecting drug metabolism",
+    "original_answer": "C. TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease.",
+      "B": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene.",
+      "C": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease.",
+      "D": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "Focusing on the molecular pathophysiology of Diamond-Blackfan anemia (DBA), an inherited bone marrow failure disorder associated primarily with mutations in ribosomal protein genes, it is confirmed that the overexpression of p53 plays a pivotal role in the disease phenotype. Among RPS19, RPS24, RPL5 and RPL11, three of these possess well-defined mechanisms of mediating p53 activation, which involves inhibition of MDM2, a key negative regulator of p53. Which of these ribosomal proteins does not participate in modulating the p53 pathway through MDM2 interaction?",
+    "options": {
+      "A": "RPS24 does not participate in modulating the p53 pathway through MDM2 interaction. The other three ribosomal proteins (RPS19, RPL5, and RPL11) are known to negatively regulate MDM2, thereby stabilizing and activating p53 in Diamond-Blackfan anemia.",
+      "B": "RPL5 does not partake in the modulation of the p53-MDM2 axis, which is a central feature to the molecular pathophysiology of Diamond-Blackfan anemia.",
+      "C": "RPL11 does not play a role in the balance of the MDM2-p53 pathway, despite its profuse presence in the ribosomal protein spectrum of Diamond-Blackfan anemia.",
+      "D": "RPS19 lacks the necessary interaction with MDM2, which is essential to the p53 regulatory pathway and the resultant bone marrow failure in Diamond-Blackfan anemia."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "gene expression regulation in rare diseases",
+    "original_answer": "B) RPS24 does not participate in modulating the p53 pathway through MDM2 interaction. The other three ribosomal proteins (RPS19, RPL5, and RPL11) are known to negatively regulate MDM2, thereby stabilizing and activating p53 in Diamond-Blackfan anemia."
+  },
+  {
+    "question": "In the context of assessing genetic modifiers of disease penetrance, consider the variant of ATP7B gene resulting in Wilson's disease. This gene interacts with a specific pathway leading to copper accumulation, which then results in organ damage if not treated. What other gene is recognized to interact with ATP7B and influence the condition's penetrance and/or phenotypic presentation, and which molecular mechanism is it involved in?",
+    "options": {
+      "A": "APOE gene, involved in lipid transport and metabolism.",
+      "B": "ATP7A gene, involved in copper transport and Menkes disease manifestation",
+      "C": "COMMD1 gene, responsible for copper trafficking and homeostasis",
+      "D": "MTTP gene, involved in lipid absorption and lipoprotein assembly"
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "genetic modifiers of disease penetrance",
+    "original_answer": "B. APOE gene, involved in lipid transport and metabolism."
+  },
+  {
+    "question": "In the context of chromosomal structural abnormalities, which of the following statements about reciprocal translocations, related genes, and associated diseases is correct?",
+    "options": {
+      "A": "t(11;14)(q13;q32) is linked to Mantle Cell Lymphoma and involves the deregulation of the CCND1 gene on chromosome 11 and the IGH gene on chromosome 14. This translocation results in the overproduction of Cyclin D1, a protein essential for cell cycle progression. Overexpression of Cyclin D1 spurs unregulated cell proliferation and the development of Mantle Cell Lymphoma. Bortezomib, a proteasome inhibitor, can be employed to degrade the surplus Cyclin D1 and control the progression of the disease.",
+      "B": "t(9;22)(q34;q11) is associated with Chronic Myelogenous Leukemia and involves the fusion of the BCR gene on chromosome 9 and the ABL1 gene on chromosome 22, creating a BCR-ABL1 fusion protein that has an increased tyrosine kinase activity. This activity alters the regulation of the cell cycle processes, enhancing cell division and preventing apoptosis, which contributes to the pathogenesis of Chronic Myelogenous Leukemia. Imatinib, a tyrosine-kinase inhibitor, can specifically target and suppress this aberrant fusion protein.",
+      "C": "t(14;18)(q32;q21) is associated with Follicular Lymphoma and results from the translocation of the BCL2 gene on chromosome 18 to the IGH gene locus on chromosome 14. This rearrangement leads to the overexpression of the BCL2 protein that inhibits apoptosis, leading to accumulation of B-lymphocytes and Follicular Lymphoma. Rituximab, an anti-CD20 monoclonal antibody, is used to target the B-cells and manage the disease.",
+      "D": "t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "chromosomal structural abnormalities",
+    "original_answer": "B. t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+  },
+  {
+    "question": "Prader-Willi Syndrome and Angelman Syndrome are two distinct neurogenetic disorders associated with imprinting defects and uniparental disomy on chromosome 15q11-q13. Deletion or loss of function of certain genes in this region leads to the development of these syndromes based on the parental origin of the abnormal chromosome. Considering the imprinted gene UBE3A, SNRPN, and the non-imprinted gene GABRB3 in this locus, which of the following statements is CORRECT?",
+    "options": {
+      "A": "The disruption of Maternal UBE3A gene results in Prader-Willi Syndrome. Lack of expression from the paternal SNRPN gene is associated with the onset of Angelman Syndrome. Whereas, GABRB3 gene, even being non-imprinted, leads to both Angelman and Prader-Willi Syndromes when it is inherited from the paternal allele.",
+      "B": "The deficiency of the maternal allele of SNRPN gene causes Prader-Willi Syndrome. Angelman Syndrome occurs due to loss or alteration of the paternal UBE3A gene, as this gene is predominantly expressed from the paternal allele. The non-imprinted gene GABRB3 is expressed from the paternal allele only in both Prader-Willi and Angelman Syndromes.",
+      "C": "The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes.",
+      "D": "The absence of Paternal UBE3A gene causes Angelman Syndrome. In neurons, the UBE3A gene exhibits higher expression from the paternal allele, therefore, loss of paternal UBE3A results in Angelman Syndrome. SNRPN is a maternally expressed gene, and defects (deletion or uniparental disomy) on the maternal chromosome lead to Prader-Willi Syndrome. Both syndromes exhibit expression of GABRB3 from the maternal allele only."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "imprinting disorders and uniparental disomy",
+    "original_answer": "B) The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes."
+  },
+  {
+    "question": "Huntington’s disease, a trinucleotide repeat disorder, is primarily associated with an expansion in the Huntingtin (HTT) gene. However, variations in other genes are also known to influence the age of onset and progression of the disease. Which of the following genetic modifiers has been identified to significantly impact the clinical manifestations of Huntington’s disease by influencing the transcriptional dysregulation pathway?",
+    "options": {
+      "A": "TP53 gene mutations leading to alterations in the p53 apoptosis pathway",
+      "B": "MSH3 gene variations leading to DNA mismatch repair machinery alterations",
+      "C": "MECP2 gene mutations inducing methyl CpG binding protein 2 dysregulation",
+      "D": "Variations in the SLC2A3 gene leading to alterations in glucose transporter type 3 (GLUT3) expression"
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "multigenic disease mechanisms",
+    "original_answer": "A) MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life.",
+      "B": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs.",
+      "C": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs.",
+      "D": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Recent advancements in genome sequencing and functional genomic technologies have shed light on the role of non-coding regulatory mutations in diverse diseases. Considering this, which of the following diseases is primarily triggered by a mutation within a non-coding regulatory element of the SOX9 gene, leading to altered interaction with regulatory factor CTCF and subsequent disruption of long-range chromatin interactions?",
+    "options": {
+      "A": "Campomelic Dysplasia",
+      "B": "Ehlers-Danlos Syndrome, triggered by a mutation in a non-coding regulatory sequence of the COL5A1 gene, disrupting its interaction with the regulatory factor Twist1, and leading to abnormal collagen synthesis.",
+      "C": "Coffin-Lowry Syndrome, set off by a mutation in the non-coding regulatory region of the RPS6KA3 gene, affecting its interaction with regulatory factor YY1 and subsequently resulting in abnormal histone acetylation patterns.",
+      "D": "Spinal Muscular Atrophy, initiated by a mutation within a non-coding regulatory element of the SMN2 gene, impacting its association with regulatory factor SF2/ASF, and ultimately causing defective pre-mRNA splicing."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "non-coding regulatory mutations",
+    "original_answer": "A. Campomelic Dysplasia"
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease.",
+      "B": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease.",
+      "C": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene.",
+      "D": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "Prader-Willi Syndrome and Angelman Syndrome are two distinct neurogenetic disorders associated with imprinting defects and uniparental disomy on chromosome 15q11-q13. Deletion or loss of function of certain genes in this region leads to the development of these syndromes based on the parental origin of the abnormal chromosome. Considering the imprinted gene UBE3A, SNRPN, and the non-imprinted gene GABRB3 in this locus, which of the following statements is CORRECT?",
+    "options": {
+      "A": "The absence of Paternal UBE3A gene causes Angelman Syndrome. In neurons, the UBE3A gene exhibits higher expression from the paternal allele, therefore, loss of paternal UBE3A results in Angelman Syndrome. SNRPN is a maternally expressed gene, and defects (deletion or uniparental disomy) on the maternal chromosome lead to Prader-Willi Syndrome. Both syndromes exhibit expression of GABRB3 from the maternal allele only.",
+      "B": "The deficiency of the maternal allele of SNRPN gene causes Prader-Willi Syndrome. Angelman Syndrome occurs due to loss or alteration of the paternal UBE3A gene, as this gene is predominantly expressed from the paternal allele. The non-imprinted gene GABRB3 is expressed from the paternal allele only in both Prader-Willi and Angelman Syndromes.",
+      "C": "The disruption of Maternal UBE3A gene results in Prader-Willi Syndrome. Lack of expression from the paternal SNRPN gene is associated with the onset of Angelman Syndrome. Whereas, GABRB3 gene, even being non-imprinted, leads to both Angelman and Prader-Willi Syndromes when it is inherited from the paternal allele.",
+      "D": "The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "imprinting disorders and uniparental disomy",
+    "original_answer": "B) The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes."
+  },
+  {
+    "question": "In the context of chromosomal structural abnormalities, which of the following statements about reciprocal translocations, related genes, and associated diseases is correct?",
+    "options": {
+      "A": "t(11;14)(q13;q32) is linked to Mantle Cell Lymphoma and involves the deregulation of the CCND1 gene on chromosome 11 and the IGH gene on chromosome 14. This translocation results in the overproduction of Cyclin D1, a protein essential for cell cycle progression. Overexpression of Cyclin D1 spurs unregulated cell proliferation and the development of Mantle Cell Lymphoma. Bortezomib, a proteasome inhibitor, can be employed to degrade the surplus Cyclin D1 and control the progression of the disease.",
+      "B": "t(14;18)(q32;q21) is associated with Follicular Lymphoma and results from the translocation of the BCL2 gene on chromosome 18 to the IGH gene locus on chromosome 14. This rearrangement leads to the overexpression of the BCL2 protein that inhibits apoptosis, leading to accumulation of B-lymphocytes and Follicular Lymphoma. Rituximab, an anti-CD20 monoclonal antibody, is used to target the B-cells and manage the disease.",
+      "C": "t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease.",
+      "D": "t(9;22)(q34;q11) is associated with Chronic Myelogenous Leukemia and involves the fusion of the BCR gene on chromosome 9 and the ABL1 gene on chromosome 22, creating a BCR-ABL1 fusion protein that has an increased tyrosine kinase activity. This activity alters the regulation of the cell cycle processes, enhancing cell division and preventing apoptosis, which contributes to the pathogenesis of Chronic Myelogenous Leukemia. Imatinib, a tyrosine-kinase inhibitor, can specifically target and suppress this aberrant fusion protein."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "chromosomal structural abnormalities",
+    "original_answer": "B. t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+  },
+  {
+    "question": "A patient presents with generalized muscle weakness and cardiac arrhythmias; genetic testing reveals a splice-site mutation in the gene DMPK, associated with Myotonic Dystrophy type 1 (DM1). Understanding the molecular consequence of such aberration will aid in managing the case. In context of DM1 pathology, which of the following combinations of molecular aberrations is most likely to be observed due to the DMPK splice-site mutation?",
+    "options": {
+      "A": "Stabilization of DMPK mRNA, increased GAA repeat length, disrupted RNA splicing of CFTR leading to cystic fibrosis, disrupted MBNL1-CUGBP1 balance favoring MBNL1 dominance.",
+      "B": "Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance.",
+      "C": "Degradation of DMPK mRNA, decreased CtG repeat length, normal RNA splicing of SCN5A leading to sodium channelopathy, disrupted MBNL2-CUGBP2 balance favoring CUGBP2 dominance.",
+      "D": "Degradation of Dystrophin mRNA, decreased CtG repeat length, normal RNA splicing of CLCN1 leading to chloride channelopathy, disrupted DMPK-CUGBP1 balance favoring DMPK dominance."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "splice-site variants and their molecular consequences",
+    "original_answer": "A. Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs.",
+      "B": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life.",
+      "C": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs.",
+      "D": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Prader-Willi Syndrome and Angelman Syndrome are two distinct neurogenetic disorders associated with imprinting defects and uniparental disomy on chromosome 15q11-q13. Deletion or loss of function of certain genes in this region leads to the development of these syndromes based on the parental origin of the abnormal chromosome. Considering the imprinted gene UBE3A, SNRPN, and the non-imprinted gene GABRB3 in this locus, which of the following statements is CORRECT?",
+    "options": {
+      "A": "The deficiency of the maternal allele of SNRPN gene causes Prader-Willi Syndrome. Angelman Syndrome occurs due to loss or alteration of the paternal UBE3A gene, as this gene is predominantly expressed from the paternal allele. The non-imprinted gene GABRB3 is expressed from the paternal allele only in both Prader-Willi and Angelman Syndromes.",
+      "B": "The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes.",
+      "C": "The disruption of Maternal UBE3A gene results in Prader-Willi Syndrome. Lack of expression from the paternal SNRPN gene is associated with the onset of Angelman Syndrome. Whereas, GABRB3 gene, even being non-imprinted, leads to both Angelman and Prader-Willi Syndromes when it is inherited from the paternal allele.",
+      "D": "The absence of Paternal UBE3A gene causes Angelman Syndrome. In neurons, the UBE3A gene exhibits higher expression from the paternal allele, therefore, loss of paternal UBE3A results in Angelman Syndrome. SNRPN is a maternally expressed gene, and defects (deletion or uniparental disomy) on the maternal chromosome lead to Prader-Willi Syndrome. Both syndromes exhibit expression of GABRB3 from the maternal allele only."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "imprinting disorders and uniparental disomy",
+    "original_answer": "B) The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes."
+  },
+  {
+    "question": "A patient presents with generalized muscle weakness and cardiac arrhythmias; genetic testing reveals a splice-site mutation in the gene DMPK, associated with Myotonic Dystrophy type 1 (DM1). Understanding the molecular consequence of such aberration will aid in managing the case. In context of DM1 pathology, which of the following combinations of molecular aberrations is most likely to be observed due to the DMPK splice-site mutation?",
+    "options": {
+      "A": "Degradation of Dystrophin mRNA, decreased CtG repeat length, normal RNA splicing of CLCN1 leading to chloride channelopathy, disrupted DMPK-CUGBP1 balance favoring DMPK dominance.",
+      "B": "Degradation of DMPK mRNA, decreased CtG repeat length, normal RNA splicing of SCN5A leading to sodium channelopathy, disrupted MBNL2-CUGBP2 balance favoring CUGBP2 dominance.",
+      "C": "Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance.",
+      "D": "Stabilization of DMPK mRNA, increased GAA repeat length, disrupted RNA splicing of CFTR leading to cystic fibrosis, disrupted MBNL1-CUGBP1 balance favoring MBNL1 dominance."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "splice-site variants and their molecular consequences",
+    "original_answer": "A. Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+  },
+  {
+    "question": "Huntington’s disease, a trinucleotide repeat disorder, is primarily associated with an expansion in the Huntingtin (HTT) gene. However, variations in other genes are also known to influence the age of onset and progression of the disease. Which of the following genetic modifiers has been identified to significantly impact the clinical manifestations of Huntington’s disease by influencing the transcriptional dysregulation pathway?",
+    "options": {
+      "A": "TP53 gene mutations leading to alterations in the p53 apoptosis pathway",
+      "B": "MSH3 gene variations leading to DNA mismatch repair machinery alterations",
+      "C": "Variations in the SLC2A3 gene leading to alterations in glucose transporter type 3 (GLUT3) expression",
+      "D": "MECP2 gene mutations inducing methyl CpG binding protein 2 dysregulation"
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "multigenic disease mechanisms",
+    "original_answer": "A) MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs.",
+      "B": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life.",
+      "C": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles.",
+      "D": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Consider the complex interplay between HFE gene mutations, hepcidin regulation, iron metabolism and the manifestation of hereditary hemochromatosis (HH). Select the most accurate statement regarding the biochemical pathways and genetic basis of this disease:",
+    "options": {
+      "A": "In HH, increased expression of the transferrin receptor 1, driven by a C282Y mutation in the HFE gene, leads to excessive absorption of dietary iron.",
+      "B": "Mutation of the S65C variant in the HFE gene disrupts the binding of transferrin receptor 2 and HFE, leading to decreased hepcidin signaling and subsequent iron hyperabsorption characteristic of HH.",
+      "C": "A Y250X mutation in the HJV gene enhances the interaction of hemojuvelin with the bone morphogenetic protein (BMP) receptor, increasing hepcidin expression and leading to the dysregulated iron homeostasis observed in HH.",
+      "D": "In HH, the overexpression of the hepcidin antimicrobial peptide, triggered by a H63D mutation in the HFE gene, results in disrupted iron egress via ferroportin, promoting iron overload."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "gene-environment interactions in complex diseases",
+    "original_answer": "B) In HH, increased expression of the transferrin receptor 1, driven by a C282Y mutation in the HFE gene, leads to excessive absorption of dietary iron."
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene.",
+      "B": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease.",
+      "C": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease.",
+      "D": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene.",
+      "B": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease.",
+      "C": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene.",
+      "D": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs.",
+      "B": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life.",
+      "C": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs.",
+      "D": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development.",
+      "B": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "C": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD.",
+      "D": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "In the context of assessing genetic modifiers of disease penetrance, consider the variant of ATP7B gene resulting in Wilson's disease. This gene interacts with a specific pathway leading to copper accumulation, which then results in organ damage if not treated. What other gene is recognized to interact with ATP7B and influence the condition's penetrance and/or phenotypic presentation, and which molecular mechanism is it involved in?",
+    "options": {
+      "A": "ATP7A gene, involved in copper transport and Menkes disease manifestation",
+      "B": "COMMD1 gene, responsible for copper trafficking and homeostasis",
+      "C": "MTTP gene, involved in lipid absorption and lipoprotein assembly",
+      "D": "APOE gene, involved in lipid transport and metabolism."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "genetic modifiers of disease penetrance",
+    "original_answer": "B. APOE gene, involved in lipid transport and metabolism."
+  },
+  {
+    "question": "Thiopurine S-methyltransferase (TPMT) is an important enzyme in the metabolism of thiopurines used in the treatment of inflammatory bowel disease. Variations in the TPMT gene can lead to adverse drug reactions, with some variants associated with significantly reduced enzyme activity. Assume a patient diagnosed with Crohn's disease presents with severe myelotoxicity after starting a thiopurine-based regimen. Based on these observations and the most commonly identified TPMT gene variants, which genetic variant is most likely present in this patient?",
+    "options": {
+      "A": "TPMT*1/2C (C719G + Y240D). This variant, prominent in the Asian population, is associated with decreased TPMT enzyme activity leading to thiopurine-related hepatotoxicity due to an exacerbated generation of unstable thioguanine nucleotides.",
+      "B": "TPMT*5B (T460A + A719G). This unique variant reflects compound heterozygosity leading to moderate TPMT enzymatic activity reduction and increased risk of thiopurine-induced pancreatitis due to uncontrolled purine nucleotide metabolism in pancreatic cells.",
+      "C": "TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines.",
+      "D": "TPMT*6 (A80P + Y240C). This rare variant is associated with the slightly reduced activity of the TPMT enzyme, leading to milder cases of thiopurine-induced hematological adverse reactions, due to the slight accumulation of cytotoxic Thioguanine nucleotides."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "pharmacogenetic variants affecting drug metabolism",
+    "original_answer": "C. TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+  },
+  {
+    "question": "In the context of chromosomal structural abnormalities, which of the following statements about reciprocal translocations, related genes, and associated diseases is correct?",
+    "options": {
+      "A": "t(14;18)(q32;q21) is associated with Follicular Lymphoma and results from the translocation of the BCL2 gene on chromosome 18 to the IGH gene locus on chromosome 14. This rearrangement leads to the overexpression of the BCL2 protein that inhibits apoptosis, leading to accumulation of B-lymphocytes and Follicular Lymphoma. Rituximab, an anti-CD20 monoclonal antibody, is used to target the B-cells and manage the disease.",
+      "B": "t(11;14)(q13;q32) is linked to Mantle Cell Lymphoma and involves the deregulation of the CCND1 gene on chromosome 11 and the IGH gene on chromosome 14. This translocation results in the overproduction of Cyclin D1, a protein essential for cell cycle progression. Overexpression of Cyclin D1 spurs unregulated cell proliferation and the development of Mantle Cell Lymphoma. Bortezomib, a proteasome inhibitor, can be employed to degrade the surplus Cyclin D1 and control the progression of the disease.",
+      "C": "t(9;22)(q34;q11) is associated with Chronic Myelogenous Leukemia and involves the fusion of the BCR gene on chromosome 9 and the ABL1 gene on chromosome 22, creating a BCR-ABL1 fusion protein that has an increased tyrosine kinase activity. This activity alters the regulation of the cell cycle processes, enhancing cell division and preventing apoptosis, which contributes to the pathogenesis of Chronic Myelogenous Leukemia. Imatinib, a tyrosine-kinase inhibitor, can specifically target and suppress this aberrant fusion protein.",
+      "D": "t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "chromosomal structural abnormalities",
+    "original_answer": "B. t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+  },
+  {
+    "question": "A patient presents with generalized muscle weakness and cardiac arrhythmias; genetic testing reveals a splice-site mutation in the gene DMPK, associated with Myotonic Dystrophy type 1 (DM1). Understanding the molecular consequence of such aberration will aid in managing the case. In context of DM1 pathology, which of the following combinations of molecular aberrations is most likely to be observed due to the DMPK splice-site mutation?",
+    "options": {
+      "A": "Degradation of Dystrophin mRNA, decreased CtG repeat length, normal RNA splicing of CLCN1 leading to chloride channelopathy, disrupted DMPK-CUGBP1 balance favoring DMPK dominance.",
+      "B": "Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance.",
+      "C": "Stabilization of DMPK mRNA, increased GAA repeat length, disrupted RNA splicing of CFTR leading to cystic fibrosis, disrupted MBNL1-CUGBP1 balance favoring MBNL1 dominance.",
+      "D": "Degradation of DMPK mRNA, decreased CtG repeat length, normal RNA splicing of SCN5A leading to sodium channelopathy, disrupted MBNL2-CUGBP2 balance favoring CUGBP2 dominance."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "splice-site variants and their molecular consequences",
+    "original_answer": "A. Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "B": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development.",
+      "C": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression.",
+      "D": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "Huntington’s disease, a trinucleotide repeat disorder, is primarily associated with an expansion in the Huntingtin (HTT) gene. However, variations in other genes are also known to influence the age of onset and progression of the disease. Which of the following genetic modifiers has been identified to significantly impact the clinical manifestations of Huntington’s disease by influencing the transcriptional dysregulation pathway?",
+    "options": {
+      "A": "TP53 gene mutations leading to alterations in the p53 apoptosis pathway",
+      "B": "MSH3 gene variations leading to DNA mismatch repair machinery alterations",
+      "C": "MECP2 gene mutations inducing methyl CpG binding protein 2 dysregulation",
+      "D": "Variations in the SLC2A3 gene leading to alterations in glucose transporter type 3 (GLUT3) expression"
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "multigenic disease mechanisms",
+    "original_answer": "A) MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+  },
+  {
+    "question": "Huntington’s disease, a trinucleotide repeat disorder, is primarily associated with an expansion in the Huntingtin (HTT) gene. However, variations in other genes are also known to influence the age of onset and progression of the disease. Which of the following genetic modifiers has been identified to significantly impact the clinical manifestations of Huntington’s disease by influencing the transcriptional dysregulation pathway?",
+    "options": {
+      "A": "TP53 gene mutations leading to alterations in the p53 apoptosis pathway",
+      "B": "MECP2 gene mutations inducing methyl CpG binding protein 2 dysregulation",
+      "C": "MSH3 gene variations leading to DNA mismatch repair machinery alterations",
+      "D": "Variations in the SLC2A3 gene leading to alterations in glucose transporter type 3 (GLUT3) expression"
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "multigenic disease mechanisms",
+    "original_answer": "A) MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+  },
+  {
+    "question": "Focusing on the molecular pathophysiology of Diamond-Blackfan anemia (DBA), an inherited bone marrow failure disorder associated primarily with mutations in ribosomal protein genes, it is confirmed that the overexpression of p53 plays a pivotal role in the disease phenotype. Among RPS19, RPS24, RPL5 and RPL11, three of these possess well-defined mechanisms of mediating p53 activation, which involves inhibition of MDM2, a key negative regulator of p53. Which of these ribosomal proteins does not participate in modulating the p53 pathway through MDM2 interaction?",
+    "options": {
+      "A": "RPS19 lacks the necessary interaction with MDM2, which is essential to the p53 regulatory pathway and the resultant bone marrow failure in Diamond-Blackfan anemia.",
+      "B": "RPL11 does not play a role in the balance of the MDM2-p53 pathway, despite its profuse presence in the ribosomal protein spectrum of Diamond-Blackfan anemia.",
+      "C": "RPS24 does not participate in modulating the p53 pathway through MDM2 interaction. The other three ribosomal proteins (RPS19, RPL5, and RPL11) are known to negatively regulate MDM2, thereby stabilizing and activating p53 in Diamond-Blackfan anemia.",
+      "D": "RPL5 does not partake in the modulation of the p53-MDM2 axis, which is a central feature to the molecular pathophysiology of Diamond-Blackfan anemia."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "gene expression regulation in rare diseases",
+    "original_answer": "B) RPS24 does not participate in modulating the p53 pathway through MDM2 interaction. The other three ribosomal proteins (RPS19, RPL5, and RPL11) are known to negatively regulate MDM2, thereby stabilizing and activating p53 in Diamond-Blackfan anemia."
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease.",
+      "B": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease.",
+      "C": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene.",
+      "D": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "In the context of chromosomal structural abnormalities, which of the following statements about reciprocal translocations, related genes, and associated diseases is correct?",
+    "options": {
+      "A": "t(9;22)(q34;q11) is associated with Chronic Myelogenous Leukemia and involves the fusion of the BCR gene on chromosome 9 and the ABL1 gene on chromosome 22, creating a BCR-ABL1 fusion protein that has an increased tyrosine kinase activity. This activity alters the regulation of the cell cycle processes, enhancing cell division and preventing apoptosis, which contributes to the pathogenesis of Chronic Myelogenous Leukemia. Imatinib, a tyrosine-kinase inhibitor, can specifically target and suppress this aberrant fusion protein.",
+      "B": "t(14;18)(q32;q21) is associated with Follicular Lymphoma and results from the translocation of the BCL2 gene on chromosome 18 to the IGH gene locus on chromosome 14. This rearrangement leads to the overexpression of the BCL2 protein that inhibits apoptosis, leading to accumulation of B-lymphocytes and Follicular Lymphoma. Rituximab, an anti-CD20 monoclonal antibody, is used to target the B-cells and manage the disease.",
+      "C": "t(11;14)(q13;q32) is linked to Mantle Cell Lymphoma and involves the deregulation of the CCND1 gene on chromosome 11 and the IGH gene on chromosome 14. This translocation results in the overproduction of Cyclin D1, a protein essential for cell cycle progression. Overexpression of Cyclin D1 spurs unregulated cell proliferation and the development of Mantle Cell Lymphoma. Bortezomib, a proteasome inhibitor, can be employed to degrade the surplus Cyclin D1 and control the progression of the disease.",
+      "D": "t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "chromosomal structural abnormalities",
+    "original_answer": "B. t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease.",
+      "B": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene.",
+      "C": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene.",
+      "D": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "Focusing on the molecular pathophysiology of Diamond-Blackfan anemia (DBA), an inherited bone marrow failure disorder associated primarily with mutations in ribosomal protein genes, it is confirmed that the overexpression of p53 plays a pivotal role in the disease phenotype. Among RPS19, RPS24, RPL5 and RPL11, three of these possess well-defined mechanisms of mediating p53 activation, which involves inhibition of MDM2, a key negative regulator of p53. Which of these ribosomal proteins does not participate in modulating the p53 pathway through MDM2 interaction?",
+    "options": {
+      "A": "RPL11 does not play a role in the balance of the MDM2-p53 pathway, despite its profuse presence in the ribosomal protein spectrum of Diamond-Blackfan anemia.",
+      "B": "RPL5 does not partake in the modulation of the p53-MDM2 axis, which is a central feature to the molecular pathophysiology of Diamond-Blackfan anemia.",
+      "C": "RPS19 lacks the necessary interaction with MDM2, which is essential to the p53 regulatory pathway and the resultant bone marrow failure in Diamond-Blackfan anemia.",
+      "D": "RPS24 does not participate in modulating the p53 pathway through MDM2 interaction. The other three ribosomal proteins (RPS19, RPL5, and RPL11) are known to negatively regulate MDM2, thereby stabilizing and activating p53 in Diamond-Blackfan anemia."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "gene expression regulation in rare diseases",
+    "original_answer": "B) RPS24 does not participate in modulating the p53 pathway through MDM2 interaction. The other three ribosomal proteins (RPS19, RPL5, and RPL11) are known to negatively regulate MDM2, thereby stabilizing and activating p53 in Diamond-Blackfan anemia."
+  },
+  {
+    "question": "Consider the complex interplay between HFE gene mutations, hepcidin regulation, iron metabolism and the manifestation of hereditary hemochromatosis (HH). Select the most accurate statement regarding the biochemical pathways and genetic basis of this disease:",
+    "options": {
+      "A": "In HH, the overexpression of the hepcidin antimicrobial peptide, triggered by a H63D mutation in the HFE gene, results in disrupted iron egress via ferroportin, promoting iron overload.",
+      "B": "In HH, increased expression of the transferrin receptor 1, driven by a C282Y mutation in the HFE gene, leads to excessive absorption of dietary iron.",
+      "C": "Mutation of the S65C variant in the HFE gene disrupts the binding of transferrin receptor 2 and HFE, leading to decreased hepcidin signaling and subsequent iron hyperabsorption characteristic of HH.",
+      "D": "A Y250X mutation in the HJV gene enhances the interaction of hemojuvelin with the bone morphogenetic protein (BMP) receptor, increasing hepcidin expression and leading to the dysregulated iron homeostasis observed in HH."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "gene-environment interactions in complex diseases",
+    "original_answer": "B) In HH, increased expression of the transferrin receptor 1, driven by a C282Y mutation in the HFE gene, leads to excessive absorption of dietary iron."
+  },
+  {
+    "question": "Thiopurine S-methyltransferase (TPMT) is an important enzyme in the metabolism of thiopurines used in the treatment of inflammatory bowel disease. Variations in the TPMT gene can lead to adverse drug reactions, with some variants associated with significantly reduced enzyme activity. Assume a patient diagnosed with Crohn's disease presents with severe myelotoxicity after starting a thiopurine-based regimen. Based on these observations and the most commonly identified TPMT gene variants, which genetic variant is most likely present in this patient?",
+    "options": {
+      "A": "TPMT*6 (A80P + Y240C). This rare variant is associated with the slightly reduced activity of the TPMT enzyme, leading to milder cases of thiopurine-induced hematological adverse reactions, due to the slight accumulation of cytotoxic Thioguanine nucleotides.",
+      "B": "TPMT*1/2C (C719G + Y240D). This variant, prominent in the Asian population, is associated with decreased TPMT enzyme activity leading to thiopurine-related hepatotoxicity due to an exacerbated generation of unstable thioguanine nucleotides.",
+      "C": "TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines.",
+      "D": "TPMT*5B (T460A + A719G). This unique variant reflects compound heterozygosity leading to moderate TPMT enzymatic activity reduction and increased risk of thiopurine-induced pancreatitis due to uncontrolled purine nucleotide metabolism in pancreatic cells."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "pharmacogenetic variants affecting drug metabolism",
+    "original_answer": "C. TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles.",
+      "B": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs.",
+      "C": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs.",
+      "D": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "A patient presents with generalized muscle weakness and cardiac arrhythmias; genetic testing reveals a splice-site mutation in the gene DMPK, associated with Myotonic Dystrophy type 1 (DM1). Understanding the molecular consequence of such aberration will aid in managing the case. In context of DM1 pathology, which of the following combinations of molecular aberrations is most likely to be observed due to the DMPK splice-site mutation?",
+    "options": {
+      "A": "Degradation of Dystrophin mRNA, decreased CtG repeat length, normal RNA splicing of CLCN1 leading to chloride channelopathy, disrupted DMPK-CUGBP1 balance favoring DMPK dominance.",
+      "B": "Degradation of DMPK mRNA, decreased CtG repeat length, normal RNA splicing of SCN5A leading to sodium channelopathy, disrupted MBNL2-CUGBP2 balance favoring CUGBP2 dominance.",
+      "C": "Stabilization of DMPK mRNA, increased GAA repeat length, disrupted RNA splicing of CFTR leading to cystic fibrosis, disrupted MBNL1-CUGBP1 balance favoring MBNL1 dominance.",
+      "D": "Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "splice-site variants and their molecular consequences",
+    "original_answer": "A. Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD.",
+      "B": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "C": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development.",
+      "D": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "Recent advancements in genome sequencing and functional genomic technologies have shed light on the role of non-coding regulatory mutations in diverse diseases. Considering this, which of the following diseases is primarily triggered by a mutation within a non-coding regulatory element of the SOX9 gene, leading to altered interaction with regulatory factor CTCF and subsequent disruption of long-range chromatin interactions?",
+    "options": {
+      "A": "Ehlers-Danlos Syndrome, triggered by a mutation in a non-coding regulatory sequence of the COL5A1 gene, disrupting its interaction with the regulatory factor Twist1, and leading to abnormal collagen synthesis.",
+      "B": "Spinal Muscular Atrophy, initiated by a mutation within a non-coding regulatory element of the SMN2 gene, impacting its association with regulatory factor SF2/ASF, and ultimately causing defective pre-mRNA splicing.",
+      "C": "Coffin-Lowry Syndrome, set off by a mutation in the non-coding regulatory region of the RPS6KA3 gene, affecting its interaction with regulatory factor YY1 and subsequently resulting in abnormal histone acetylation patterns.",
+      "D": "Campomelic Dysplasia"
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "non-coding regulatory mutations",
+    "original_answer": "A. Campomelic Dysplasia"
+  },
+  {
+    "question": "Thiopurine S-methyltransferase (TPMT) is an important enzyme in the metabolism of thiopurines used in the treatment of inflammatory bowel disease. Variations in the TPMT gene can lead to adverse drug reactions, with some variants associated with significantly reduced enzyme activity. Assume a patient diagnosed with Crohn's disease presents with severe myelotoxicity after starting a thiopurine-based regimen. Based on these observations and the most commonly identified TPMT gene variants, which genetic variant is most likely present in this patient?",
+    "options": {
+      "A": "TPMT*6 (A80P + Y240C). This rare variant is associated with the slightly reduced activity of the TPMT enzyme, leading to milder cases of thiopurine-induced hematological adverse reactions, due to the slight accumulation of cytotoxic Thioguanine nucleotides.",
+      "B": "TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines.",
+      "C": "TPMT*5B (T460A + A719G). This unique variant reflects compound heterozygosity leading to moderate TPMT enzymatic activity reduction and increased risk of thiopurine-induced pancreatitis due to uncontrolled purine nucleotide metabolism in pancreatic cells.",
+      "D": "TPMT*1/2C (C719G + Y240D). This variant, prominent in the Asian population, is associated with decreased TPMT enzyme activity leading to thiopurine-related hepatotoxicity due to an exacerbated generation of unstable thioguanine nucleotides."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "pharmacogenetic variants affecting drug metabolism",
+    "original_answer": "C. TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+  },
+  {
+    "question": "In the context of assessing genetic modifiers of disease penetrance, consider the variant of ATP7B gene resulting in Wilson's disease. This gene interacts with a specific pathway leading to copper accumulation, which then results in organ damage if not treated. What other gene is recognized to interact with ATP7B and influence the condition's penetrance and/or phenotypic presentation, and which molecular mechanism is it involved in?",
+    "options": {
+      "A": "ATP7A gene, involved in copper transport and Menkes disease manifestation",
+      "B": "MTTP gene, involved in lipid absorption and lipoprotein assembly",
+      "C": "APOE gene, involved in lipid transport and metabolism.",
+      "D": "COMMD1 gene, responsible for copper trafficking and homeostasis"
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "genetic modifiers of disease penetrance",
+    "original_answer": "B. APOE gene, involved in lipid transport and metabolism."
+  },
+  {
+    "question": "Translocation Renal Cell carcinoma is characterized by translocations involving the Transcription Factor E3 (TFE3) gene, leading to the overexpression of TFE3 fusion proteins. In a study designed to examine the epigenetic alteration of gene expression caused by TFE3 fusion proteins, which of the following pathways would be most likely impacted?",
+    "options": {
+      "A": "Decreased ubiquitination of beta-catenin at Wnt target genes, leading to an accumulation of beta-catenin and increased cell growth and proliferation. Beta-catenin is a critical component of the Wnt signaling pathway, which is involved in cell proliferation, survival, and differentiation. TFE3 fusion proteins could theoretically influence its ubiquitination, altering its degradation and leading to increased cell growth.",
+      "B": "Enhanced methylation of the promoter regions of the HIF1A and EGFR genes. The gene HIF1A codes for Hypoxia Inducible Factor 1 Alpha, and Epidermal Growth Factor Receptor (EGFR) is a protein involved in cell growth and differentiation. The TFE3 fusion proteins could promote methylation, preventing these genes from being expressed and thus inhibiting tumorigenesis.",
+      "C": "Increased acetylation of histones at the promoters of the VEGF and PDGF genes. The TFE3 gene is a transcription factor, and changes in its expression due to the creation of TFE3 fusion proteins would likely impact transcriptional regulation, such as histone modification. Vascular Endothelial Growth Factor (VEGF) and Platelet Derived Growth Factor (PDGF) are two genes commonly overexpressed in renal cell carcinomas, and their overexpression is often due to histone acetylation at their respective promoters.",
+      "D": "Increased phosphorylation of the p53 tumor suppressor gene, leading to its destabilization and degradation. This process could facilitate unrestricted cell proliferation in renal cell carcinomas, given the role of p53 in cell cycle regulation and apoptosis."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "epigenetic regulation of disease genes",
+    "original_answer": "B) Increased acetylation of histones at the promoters of the VEGF and PDGF genes. The TFE3 gene is a transcription factor, and changes in its expression due to the creation of TFE3 fusion proteins would likely impact transcriptional regulation, such as histone modification. Vascular Endothelial Growth Factor (VEGF) and Platelet Derived Growth Factor (PDGF) are two genes commonly overexpressed in renal cell carcinomas, and their overexpression is often due to histone acetylation at their respective promoters."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD.",
+      "B": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression.",
+      "C": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "D": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "Familial Alzheimer's Disease (FAD) results from mutations in certain genes. One such mutation on the PSEN1 gene affects the regulation of Amyloid precursor protein (APP). Given the essential role of γ-secretase in the Notch pathway and its involvement in post-translational modification of both APP and Notch, how might alterations in γ-secretase due to the mutation on PSEN1 affect the development and progression of FAD?",
+    "options": {
+      "A": "PSEN1 mutation influences the preferential cleavage of both APP and Notch by γ-secretase, leading to synchronous dysregulation. This results in an excessive production of P3 peptides from APP, which, despite being less amyloidogenic, induce neurotoxicity when overproduced. Additionally, the altered Notch signaling due to the mutation disturbs the balance between neuronal survival and apoptosis, contributing to FAD progression.",
+      "B": "Mutation in PSEN1 leads to hyperactivity of γ-secretase, resulting in overproduction of Amyloid-beta 39 peptides. These peptides, although less prone to aggregation, in excessive quantities lead to the formation of senile plaques that mediate neuronal toxicity and accelerate FAD pathogenesis. In parallel, overactive Notch signaling due to γ-secretase hyperactivity might contribute to neurodegeneration.",
+      "C": "The PSEN1 mutation results in a decreased activity of γ-secretase, leading to an accumulation of APP. This accumulation of uncleaved APP disrupts the homeostatic equilibrium of the cell and results in neuronal damage, thereby hastening the progression of FAD. Concurrently, the mutation also affects the Notch signaling pathway, causing an imbalance in cell differentiation and tissue development.",
+      "D": "PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "post-translational modifications in genetic disorders",
+    "original_answer": "D) PSEN1 mutation affects the γ-secretase cleavage site preference causing a shift towards the production of more amyloid-beta 42 peptides, which are more prone to aggregate and lead to plaque formation, hence accelerating FAD progression. These plaques are a characteristic neuropathological feature of FAD."
+  },
+  {
+    "question": "A patient presents with generalized muscle weakness and cardiac arrhythmias; genetic testing reveals a splice-site mutation in the gene DMPK, associated with Myotonic Dystrophy type 1 (DM1). Understanding the molecular consequence of such aberration will aid in managing the case. In context of DM1 pathology, which of the following combinations of molecular aberrations is most likely to be observed due to the DMPK splice-site mutation?",
+    "options": {
+      "A": "Degradation of Dystrophin mRNA, decreased CtG repeat length, normal RNA splicing of CLCN1 leading to chloride channelopathy, disrupted DMPK-CUGBP1 balance favoring DMPK dominance.",
+      "B": "Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance.",
+      "C": "Degradation of DMPK mRNA, decreased CtG repeat length, normal RNA splicing of SCN5A leading to sodium channelopathy, disrupted MBNL2-CUGBP2 balance favoring CUGBP2 dominance.",
+      "D": "Stabilization of DMPK mRNA, increased GAA repeat length, disrupted RNA splicing of CFTR leading to cystic fibrosis, disrupted MBNL1-CUGBP1 balance favoring MBNL1 dominance."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "splice-site variants and their molecular consequences",
+    "original_answer": "A. Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+  },
+  {
+    "question": "A patient presents with generalized muscle weakness and cardiac arrhythmias; genetic testing reveals a splice-site mutation in the gene DMPK, associated with Myotonic Dystrophy type 1 (DM1). Understanding the molecular consequence of such aberration will aid in managing the case. In context of DM1 pathology, which of the following combinations of molecular aberrations is most likely to be observed due to the DMPK splice-site mutation?",
+    "options": {
+      "A": "Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance.",
+      "B": "Degradation of DMPK mRNA, decreased CtG repeat length, normal RNA splicing of SCN5A leading to sodium channelopathy, disrupted MBNL2-CUGBP2 balance favoring CUGBP2 dominance.",
+      "C": "Stabilization of DMPK mRNA, increased GAA repeat length, disrupted RNA splicing of CFTR leading to cystic fibrosis, disrupted MBNL1-CUGBP1 balance favoring MBNL1 dominance.",
+      "D": "Degradation of Dystrophin mRNA, decreased CtG repeat length, normal RNA splicing of CLCN1 leading to chloride channelopathy, disrupted DMPK-CUGBP1 balance favoring DMPK dominance."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "splice-site variants and their molecular consequences",
+    "original_answer": "A. Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+  },
+  {
+    "question": "A patient presents with generalized muscle weakness and cardiac arrhythmias; genetic testing reveals a splice-site mutation in the gene DMPK, associated with Myotonic Dystrophy type 1 (DM1). Understanding the molecular consequence of such aberration will aid in managing the case. In context of DM1 pathology, which of the following combinations of molecular aberrations is most likely to be observed due to the DMPK splice-site mutation?",
+    "options": {
+      "A": "Stabilization of DMPK mRNA, increased GAA repeat length, disrupted RNA splicing of CFTR leading to cystic fibrosis, disrupted MBNL1-CUGBP1 balance favoring MBNL1 dominance.",
+      "B": "Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance.",
+      "C": "Degradation of Dystrophin mRNA, decreased CtG repeat length, normal RNA splicing of CLCN1 leading to chloride channelopathy, disrupted DMPK-CUGBP1 balance favoring DMPK dominance.",
+      "D": "Degradation of DMPK mRNA, decreased CtG repeat length, normal RNA splicing of SCN5A leading to sodium channelopathy, disrupted MBNL2-CUGBP2 balance favoring CUGBP2 dominance."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "splice-site variants and their molecular consequences",
+    "original_answer": "A. Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+  },
+  {
+    "question": "A patient presents with generalized muscle weakness and cardiac arrhythmias; genetic testing reveals a splice-site mutation in the gene DMPK, associated with Myotonic Dystrophy type 1 (DM1). Understanding the molecular consequence of such aberration will aid in managing the case. In context of DM1 pathology, which of the following combinations of molecular aberrations is most likely to be observed due to the DMPK splice-site mutation?",
+    "options": {
+      "A": "Degradation of DMPK mRNA, decreased CtG repeat length, normal RNA splicing of SCN5A leading to sodium channelopathy, disrupted MBNL2-CUGBP2 balance favoring CUGBP2 dominance.",
+      "B": "Degradation of Dystrophin mRNA, decreased CtG repeat length, normal RNA splicing of CLCN1 leading to chloride channelopathy, disrupted DMPK-CUGBP1 balance favoring DMPK dominance.",
+      "C": "Stabilization of DMPK mRNA, increased GAA repeat length, disrupted RNA splicing of CFTR leading to cystic fibrosis, disrupted MBNL1-CUGBP1 balance favoring MBNL1 dominance.",
+      "D": "Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "splice-site variants and their molecular consequences",
+    "original_answer": "A. Stabilization of DMPK mRNA, increased CtG repeat length, disrupted RNA splicing of CLCN1 leading to chloride channelopathy, disrupted MBNL1-CUGBP1 balance favoring CUGBP1 dominance."
+  },
+  {
+    "question": "Prader-Willi Syndrome and Angelman Syndrome are two distinct neurogenetic disorders associated with imprinting defects and uniparental disomy on chromosome 15q11-q13. Deletion or loss of function of certain genes in this region leads to the development of these syndromes based on the parental origin of the abnormal chromosome. Considering the imprinted gene UBE3A, SNRPN, and the non-imprinted gene GABRB3 in this locus, which of the following statements is CORRECT?",
+    "options": {
+      "A": "The disruption of Maternal UBE3A gene results in Prader-Willi Syndrome. Lack of expression from the paternal SNRPN gene is associated with the onset of Angelman Syndrome. Whereas, GABRB3 gene, even being non-imprinted, leads to both Angelman and Prader-Willi Syndromes when it is inherited from the paternal allele.",
+      "B": "The absence of Paternal UBE3A gene causes Angelman Syndrome. In neurons, the UBE3A gene exhibits higher expression from the paternal allele, therefore, loss of paternal UBE3A results in Angelman Syndrome. SNRPN is a maternally expressed gene, and defects (deletion or uniparental disomy) on the maternal chromosome lead to Prader-Willi Syndrome. Both syndromes exhibit expression of GABRB3 from the maternal allele only.",
+      "C": "The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes.",
+      "D": "The deficiency of the maternal allele of SNRPN gene causes Prader-Willi Syndrome. Angelman Syndrome occurs due to loss or alteration of the paternal UBE3A gene, as this gene is predominantly expressed from the paternal allele. The non-imprinted gene GABRB3 is expressed from the paternal allele only in both Prader-Willi and Angelman Syndromes."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "imprinting disorders and uniparental disomy",
+    "original_answer": "B) The absence of Maternal UBE3A gene causes Angelman Syndrome. The UBE3A gene is more highly expressed from the maternal allele in neurons, so loss of maternal UBE3A results in Angelman Syndrome. SNRPN is a paternally expressed gene, and defects (deletion or uniparental disomy) on the paternal chromosome lead to Prader-Willi Syndrome. GABRB3 is expressed from both alleles, not just the maternal one in both syndromes."
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene.",
+      "B": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene.",
+      "C": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease.",
+      "D": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene.",
+      "B": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease.",
+      "C": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene.",
+      "D": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "Thiopurine S-methyltransferase (TPMT) is an important enzyme in the metabolism of thiopurines used in the treatment of inflammatory bowel disease. Variations in the TPMT gene can lead to adverse drug reactions, with some variants associated with significantly reduced enzyme activity. Assume a patient diagnosed with Crohn's disease presents with severe myelotoxicity after starting a thiopurine-based regimen. Based on these observations and the most commonly identified TPMT gene variants, which genetic variant is most likely present in this patient?",
+    "options": {
+      "A": "TPMT*1/2C (C719G + Y240D). This variant, prominent in the Asian population, is associated with decreased TPMT enzyme activity leading to thiopurine-related hepatotoxicity due to an exacerbated generation of unstable thioguanine nucleotides.",
+      "B": "TPMT*6 (A80P + Y240C). This rare variant is associated with the slightly reduced activity of the TPMT enzyme, leading to milder cases of thiopurine-induced hematological adverse reactions, due to the slight accumulation of cytotoxic Thioguanine nucleotides.",
+      "C": "TPMT*5B (T460A + A719G). This unique variant reflects compound heterozygosity leading to moderate TPMT enzymatic activity reduction and increased risk of thiopurine-induced pancreatitis due to uncontrolled purine nucleotide metabolism in pancreatic cells.",
+      "D": "TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "pharmacogenetic variants affecting drug metabolism",
+    "original_answer": "C. TPMT*3A (A719G + Y240C). This variant is associated with very low TPMT enzyme activity and high risk of thiopurine-related myelotoxicity due to an accumulation of active thioguanine nucleotides in hematopoietic precursors. While other variants like TPMT*2, TPMT*3C, and TPMT*4 also result in reduced enzyme activity, TPMT*3A is the most common variant associated with severe adverse reactions in patients treated with standard doses of thiopurines."
+  },
+  {
+    "question": "In the context of assessing genetic modifiers of disease penetrance, consider the variant of ATP7B gene resulting in Wilson's disease. This gene interacts with a specific pathway leading to copper accumulation, which then results in organ damage if not treated. What other gene is recognized to interact with ATP7B and influence the condition's penetrance and/or phenotypic presentation, and which molecular mechanism is it involved in?",
+    "options": {
+      "A": "COMMD1 gene, responsible for copper trafficking and homeostasis",
+      "B": "MTTP gene, involved in lipid absorption and lipoprotein assembly",
+      "C": "APOE gene, involved in lipid transport and metabolism.",
+      "D": "ATP7A gene, involved in copper transport and Menkes disease manifestation"
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "genetic modifiers of disease penetrance",
+    "original_answer": "B. APOE gene, involved in lipid transport and metabolism."
+  },
+  {
+    "question": "In the context of using next-generation sequencing (NGS) for the molecular diagnosis of rare pediatric-onset neuromuscular disorders, which of the following statements accurately reflects the relationship between the titin (TTN) gene, its product (titin protein), and the associated disease spectrum, especially when mutations are found in the A-band region of the protein?",
+    "options": {
+      "A": "Mutations in the TTN gene, particularly in the A-band region, are linked to the development of Charcot-Marie-Tooth disease type 2, a neurological disorder characterized by progressive weakness and atrophy of the distal muscles in the limbs.",
+      "B": "Mutations in the TTN gene, specifically in the A-band region, are associated with Duchenne muscular dystrophy, an X-linked recessive disorder characterized by rapid progression of muscle degeneration that occurs early in life.",
+      "C": "Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs.",
+      "D": "Mutations in the TTN gene, particularly in the A-band region, are primarily responsible for Barth syndrome, an X-linked mitochondrial disorder characterized by weakness and hypotonia, which primarily affects the heart and skeletal muscles."
+    },
+    "answer": "C",
+    "answer_idx": 2,
+    "module": "gene_disease_association",
+    "topic": "next-generation sequencing applications in molecular diagnosis",
+    "original_answer": "D. Mutations in the TTN gene, particularly in the A-band region, are implicated in tibial muscular dystrophy, an autosomal dominant disorder characterized by late-onset, slowly progressive weakness and wasting of the anterior compartment muscles of the lower legs."
+  },
+  {
+    "question": "Recent advancements in genome sequencing and functional genomic technologies have shed light on the role of non-coding regulatory mutations in diverse diseases. Considering this, which of the following diseases is primarily triggered by a mutation within a non-coding regulatory element of the SOX9 gene, leading to altered interaction with regulatory factor CTCF and subsequent disruption of long-range chromatin interactions?",
+    "options": {
+      "A": "Campomelic Dysplasia",
+      "B": "Ehlers-Danlos Syndrome, triggered by a mutation in a non-coding regulatory sequence of the COL5A1 gene, disrupting its interaction with the regulatory factor Twist1, and leading to abnormal collagen synthesis.",
+      "C": "Coffin-Lowry Syndrome, set off by a mutation in the non-coding regulatory region of the RPS6KA3 gene, affecting its interaction with regulatory factor YY1 and subsequently resulting in abnormal histone acetylation patterns.",
+      "D": "Spinal Muscular Atrophy, initiated by a mutation within a non-coding regulatory element of the SMN2 gene, impacting its association with regulatory factor SF2/ASF, and ultimately causing defective pre-mRNA splicing."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "non-coding regulatory mutations",
+    "original_answer": "A. Campomelic Dysplasia"
+  },
+  {
+    "question": "Phenylketonuria (PKU), a common inborn error of metabolism, is caused by a deficiency in the enzyme phenylalanine hydroxylase (PAH), which converts phenylalanine to tyrosine. Mutation in the PAH gene leads to accumulated phenylalanine and decreased tyrosine, causing intellectual disability and other neurological problems. Tangier disease, on the other hand, is a rare genetic disorder due to mutations in the ABCA1 gene, leading to reduced reverse cholesterol transport and causing accumulation of cholesterol in certain tissues. Considering these two diseases - PKU and Tangier disease, which of the following biochemical pathways or processes is NOT affected by mutations in the PAH or ABCA1 genes?",
+    "options": {
+      "A": "Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease.",
+      "B": "Conversion of galactose to glucose as part of the Leloir pathway, mediated by the enzyme uridine diphosphate galactose 4' epimerase encoded by the GALE gene.",
+      "C": "Transport of copper into the mitochondria for incorporation into cytochrome c oxidase by ATP7A gene, playing a crucial role in Menkes disease.",
+      "D": "Conversion of homocysteine to methionine facilitated by the enzyme methionine synthase, which utilizes methylcobalamin as a cofactor and is influenced by the MTR gene."
+    },
+    "answer": "A",
+    "answer_idx": 0,
+    "module": "gene_disease_association",
+    "topic": "biochemical pathways disrupted in inborn errors of metabolism",
+    "original_answer": "D. Conversion of folic acid to tetrahydrofolate. The conversion of folic acid to tetrahydrofolate is carried out by the enzyme dihydrofolate reductase, which is not affected by mutations in either the PAH or ABCA1 genes associated with Phenylketonuria or Tangier disease. This pathway is critical for DNA synthesis and repair. Mutations in genes associated with this pathway can lead to certain types of megaloblastic anemia, but are not implicated in Phenylketonuria or Tangier disease."
+  },
+  {
+    "question": "Huntington’s disease, a trinucleotide repeat disorder, is primarily associated with an expansion in the Huntingtin (HTT) gene. However, variations in other genes are also known to influence the age of onset and progression of the disease. Which of the following genetic modifiers has been identified to significantly impact the clinical manifestations of Huntington’s disease by influencing the transcriptional dysregulation pathway?",
+    "options": {
+      "A": "TP53 gene mutations leading to alterations in the p53 apoptosis pathway",
+      "B": "MSH3 gene variations leading to DNA mismatch repair machinery alterations",
+      "C": "MECP2 gene mutations inducing methyl CpG binding protein 2 dysregulation",
+      "D": "Variations in the SLC2A3 gene leading to alterations in glucose transporter type 3 (GLUT3) expression"
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "multigenic disease mechanisms",
+    "original_answer": "A) MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+  },
+  {
+    "question": "In the context of chromosomal structural abnormalities, which of the following statements about reciprocal translocations, related genes, and associated diseases is correct?",
+    "options": {
+      "A": "t(9;22)(q34;q11) is associated with Chronic Myelogenous Leukemia and involves the fusion of the BCR gene on chromosome 9 and the ABL1 gene on chromosome 22, creating a BCR-ABL1 fusion protein that has an increased tyrosine kinase activity. This activity alters the regulation of the cell cycle processes, enhancing cell division and preventing apoptosis, which contributes to the pathogenesis of Chronic Myelogenous Leukemia. Imatinib, a tyrosine-kinase inhibitor, can specifically target and suppress this aberrant fusion protein.",
+      "B": "t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease.",
+      "C": "t(11;14)(q13;q32) is linked to Mantle Cell Lymphoma and involves the deregulation of the CCND1 gene on chromosome 11 and the IGH gene on chromosome 14. This translocation results in the overproduction of Cyclin D1, a protein essential for cell cycle progression. Overexpression of Cyclin D1 spurs unregulated cell proliferation and the development of Mantle Cell Lymphoma. Bortezomib, a proteasome inhibitor, can be employed to degrade the surplus Cyclin D1 and control the progression of the disease.",
+      "D": "t(14;18)(q32;q21) is associated with Follicular Lymphoma and results from the translocation of the BCL2 gene on chromosome 18 to the IGH gene locus on chromosome 14. This rearrangement leads to the overexpression of the BCL2 protein that inhibits apoptosis, leading to accumulation of B-lymphocytes and Follicular Lymphoma. Rituximab, an anti-CD20 monoclonal antibody, is used to target the B-cells and manage the disease."
+    },
+    "answer": "B",
+    "answer_idx": 1,
+    "module": "gene_disease_association",
+    "topic": "chromosomal structural abnormalities",
+    "original_answer": "B. t(15;17) (q24;q21) is associated with acute promyelocytic leukemia and involves the fusion of the PML gene on chromosome 15 and the RARA gene on chromosome 17, leading to the production of a PML-RARA fusion protein that interacts with the retinoic acid receptor. This fusion protein disrupts normal myeloid differentiation leading to a proliferation of immature promyelocytes, characteristic of acute promyelocytic leukemia. Additionally, the fusion protein is sensitive to all-trans retinoic acid, a derivative of vitamin A, which can be used in the treatment of the disease."
+  },
+  {
+    "question": "Huntington’s disease, a trinucleotide repeat disorder, is primarily associated with an expansion in the Huntingtin (HTT) gene. However, variations in other genes are also known to influence the age of onset and progression of the disease. Which of the following genetic modifiers has been identified to significantly impact the clinical manifestations of Huntington’s disease by influencing the transcriptional dysregulation pathway?",
+    "options": {
+      "A": "Variations in the SLC2A3 gene leading to alterations in glucose transporter type 3 (GLUT3) expression",
+      "B": "MECP2 gene mutations inducing methyl CpG binding protein 2 dysregulation",
+      "C": "TP53 gene mutations leading to alterations in the p53 apoptosis pathway",
+      "D": "MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+    },
+    "answer": "D",
+    "answer_idx": 3,
+    "module": "gene_disease_association",
+    "topic": "multigenic disease mechanisms",
+    "original_answer": "A) MSH3 gene variations leading to DNA mismatch repair machinery alterations"
+  }
+]
