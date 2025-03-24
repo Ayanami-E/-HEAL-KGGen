@@ -106,6 +106,4 @@ The system generates the following output files:
 4. Medical entity extraction log
 5. Detailed knowledge graph contribution analysis report
 
-## License
 
-[MIT](LICENSE)
