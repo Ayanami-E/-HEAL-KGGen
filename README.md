@@ -1,4 +1,4 @@
-# -HEAL-KGGen
+# HEAL-KGGen
 # Knowledge Graph Enhanced Medical Question Answering System
 
 This is an evaluation framework for enhancing Large Language Models (LLMs) with knowledge graphs to improve performance on medical domain question answering. The system integrates structured medical knowledge to significantly increase the accuracy of LLMs on medical QA tasks.
